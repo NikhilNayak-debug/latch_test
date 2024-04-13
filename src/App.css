@@ -1,0 +1,28 @@
+.document-section {
+  margin: 1em;
+}
+
+h1, h4 {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.clause-list {
+  padding-left: 1em;
+  list-style-type: decimal;
+}
+
+.mention {
+  display: inline;
+  padding: 0.2em;
+  border-radius: 0.2em; /* Optional: if you want rounded corners */
+}
+
+p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
